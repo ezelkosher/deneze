@@ -8,7 +8,7 @@
     "final_project_frontend": {
       "dependencies": [
         "final_project_backend"
-      ],   
+      ],    
       "frontend": {
         "entrypoint": "src/final_project_frontend/src/index.html"
       },
