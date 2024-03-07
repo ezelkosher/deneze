@@ -4,7 +4,7 @@
       "candid": "src/final_project_backend/final_project_backend.did",
       "package": "final_project_backend",
       "type": "rust" 
-    },                    
+    },                     
     "final_project_frontend": {
       "dependencies": [
         "final_project_backend"
